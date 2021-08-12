@@ -45,6 +45,7 @@
 		<h1>Learn SQL From Scratch</h1>
 		<ol>
 			<li><a href="/lessons-files/001-intro.php">Introduction to SQL</a></li>
+			<li><a href="/lessons-files/002-structures.php">Working with Structures</a></li>
 		</ol>
 </body>
 </html>
